@@ -473,10 +473,11 @@ input {
     font-weight: 400;
     font-size  : 16px;
     line-height: 19px;
-    color: #FFFFFF;
+    color      : #FFFFFF;
 }
 
-.footer__right_icons{
-    display: flex;
-    gap: 25px;
+.footer__right_icons {
+    display        : flex;
+    gap            : 25px;
+    justify-content: center;
 }
